@@ -1,4 +1,12 @@
-temp-body {
-    margin: 0;
-    background: orange
+.bio-about-me {
+    max-width: 1500px;
+    font-size: 1.2em;
+    color: black;
+    padding: 0;
+    text-align: left;
+    margin-left: 100px;
+}
+
+.bio-image {
+
 }
