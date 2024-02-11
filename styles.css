@@ -3,10 +3,24 @@
     font-size: 1.2em;
     color: black;
     padding: 0;
-    text-align: left;
-    /* margin-left: 100px; */
+    /* text-align: left; */
+    margin-left: 100px;
     display: flex;
     justify-content: center;
+    border
+}
+
+.industry-experiences {
+    max-width: 1500px;
+    padding: 0;
+    text-align: left;
+    display: flex;
+    /* justify-content: center; */
+}
+
+ul li { /* type selector-selects elements by type. In this case, `ul li` is selecting all `li` elements that are descendants of a `ul` element */
+    margin-bottom: 20px; /* 20px space between each list item */
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 }
 
 .bio-image {
