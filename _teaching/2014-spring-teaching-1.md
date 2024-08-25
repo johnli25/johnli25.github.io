@@ -1,10 +1,10 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assistant for ECE 110-Introduction to Electronics"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
+venue: "University of Illinois at Urbana-Champaign, Electrical and Computer Engineering (ECE) Department"
+# date: 2024-01-01
 location: "City, Country"
 ---
 

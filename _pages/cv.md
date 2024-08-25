@@ -11,28 +11,30 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Engineering, University of Illinois at Urbana-Champaign (UIUC), (in progress)
+* M.S. in Computer Engineering, University of Illinois at Urbana-Champaign (UIUC), 2025 (expected)
+* B.S. in Computer Engineering, University of Illinois at Urbana-Champaign (UIUC), 2023
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Intuitive Surgical, Embedded Video and Computer Vision Software Engineer Intern (Summer 2024)
+* UIUC IoT@Illinois Lab, Graduate Student Researcher (2023-present)
+* Juniper Networks, Infra Software Engineer Intern (Summer 2023)
+* Salesforce/Tableau, Software Engineer Intern (Summer 2022)
+* Lockheed Martin, Software Engineer Intern (Summer 2020, Summer 2021)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Clubs
+======
+* ACM SIG-AIDA (Association for Computing Machinery Special Interest Group-Artificial Intelligence and Data Analytics)
+* Illini Club Swim
+* Illini Triathalon
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Awards
+======
+* Graduated With Honors
+* Dean's List (multiple semesters)
+
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
@@ -51,14 +53,16 @@ Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+* Course Assistant, CS 225: Data Structures (2021-2023)
+* Teaching Assistant, ECE 110: Introduction to Electronics (2023-present)
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
