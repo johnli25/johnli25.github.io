@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 # permalink: /teaching/2014-spring-teaching-1
 venue: "University of Illinois at Urbana-Champaign, Electrical and Computer Engineering (ECE) Department"
-date: 2023-Present
+date: 2023
 location: "City, Country"
 ---
 
