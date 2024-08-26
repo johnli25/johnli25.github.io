@@ -1,5 +1,5 @@
 ---
-title: "FrameCorr: Adaptive, Autoencoder-based Neural Compression for Video Reconstruction in Resource and Timing Constrained Network Settings,"
+title: "FrameCorr: Adaptive, Autoencoder-based Neural Compression for Video Reconstruction in Resource and Timing Constrained Network Settings"
 collection: publications
 category: manuscripts
 # permalink: /publication/2024-05-16-framecorr
