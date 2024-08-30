@@ -28,6 +28,7 @@ Clubs
 * ACM SIG-AIDA (Association for Computing Machinery Special Interest Group-Artificial Intelligence and Data Analytics)
 * Illini Club Swim
 * Illini Triathalon
+* Urbana City FC (UPSL Semi-Pro Soccer)
 
 Awards
 ======
