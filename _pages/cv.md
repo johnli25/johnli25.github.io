@@ -58,8 +58,8 @@ Talks
   
 Teaching
 ======
-* Course Assistant, CS 225: Data Structures (2021-2023)
 * Teaching Assistant, ECE 110: Introduction to Electronics (2023-present)
+* Course Assistant, CS 225: Data Structures (2021-2023)
   <!-- <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
