@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Teaching Assistant for ECE 110-Introduction to Electronics"
 collection: teaching
 type: "Undergraduate course"
@@ -6,7 +6,7 @@ type: "Undergraduate course"
 venue: "University of Illinois at Urbana-Champaign, Electrical and Computer Engineering (ECE) Department"
 date: 2023-08-25
 location: "City, Country"
----
+--- -->
 
 <!-- This is a description of a teaching experience. You can use markdown like any other post.
 
