@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Engineering, University of Illinois at Urbana-Champaign (UIUC), (in progress)
+<!-- * Ph.D in Computer Engineering, University of Illinois at Urbana-Champaign (UIUC), (in progress) -->
 * M.S. in Computer Engineering, University of Illinois at Urbana-Champaign (UIUC), 2025 (expected)
 * B.S. in Computer Engineering, University of Illinois at Urbana-Champaign (UIUC), 2023
 
