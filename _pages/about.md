@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a second-year grad student at the University of Illinois at Urbana-Champaign (UIUC) studying Computer Engineering. My research interests lie in internet of things (IoT), distributed/real-time systems, computer vision, and machine learning. 
+I'm currently a graduate student (M.S./PhD) at the University of Illinois at Urbana-Champaign (UIUC) studying Computer Engineering. My research interests lie in Internet of Things (IoT), Computer Vision, Machine Learning and Systems (MLSys), and Real-Time/Distributed Systems.
