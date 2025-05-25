@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-<!-- * Ph.D in Computer Engineering, University of Illinois at Urbana-Champaign (UIUC), (in progress) -->
-* M.S. in Computer Engineering, University of Illinois at Urbana-Champaign (UIUC), 2025 (expected)
+* Ph.D in Computer Engineering, University of Illinois at Urbana-Champaign (UIUC), (in progress)
+* M.S. in Computer Engineering, University of Illinois at Urbana-Champaign (UIUC), 2025
 * B.S. in Computer Engineering, University of Illinois at Urbana-Champaign (UIUC), 2023
 
 Work experience
@@ -23,16 +23,17 @@ Work experience
 * Salesforce/Tableau, Software Engineer Intern (Summer 2022)
 * Lockheed Martin, Software Engineer Intern (Summer 2020, Summer 2021)
 
-Clubs
+Extracurriculars
 ======
-* ACM SIG-AIDA (Association for Computing Machinery Special Interest Group-Artificial Intelligence and Data Analytics)
-* Illini Club Swim
-* Illini Triathalon
+* University of Illinois Swim Club
+* Illinois Triathlon Club
 * Urbana City FC (UPSL Semi-Pro Soccer)
+* ACM SIG-AIDA (Association for Computing Machinery Special Interest Group-Artificial Intelligence and Data Analytics)
 
 Awards
 ======
-* Graduated With Honors
+* Grainger Senior Design Runner-up Award (Fall 2022)
+* Graduated With Honors (May 2023, B.S.)
 * Dean's List (multiple semesters)
 
 <!-- Skills
@@ -58,6 +59,7 @@ Talks
   
 Teaching
 ======
+* Teaching Assistant, ECE 445: Senior Design
 * Teaching Assistant, ECE 110: Introduction to Electronics (2023-present)
 * Course Assistant, CS 225: Data Structures (2021-2023)
   <!-- <ul>{% for post in site.teaching reversed %}
