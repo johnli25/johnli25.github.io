@@ -4,7 +4,7 @@ title: "MOM: Microcontroller-based Occupancy Monitoring"
 collection: portfolio
 --- 
 *by Franklin Moy, Vish GS, John Li.* <br/>
-**Won Grainger Senior Design Runner-up Award [(Fall 2022)](https://courses.grainger.illinois.edu/ece445/hall-of-fame.asp#)!!**
+**[Won Grainger Senior Design Runner-up Award](https://courses.grainger.illinois.edu/ece445/hall-of-fame.asp#) Fall 2022!!**
 
 Wireless, ESP32-controlled IoT device and web application designed to monitor Wi-Fi traffic density and estimate real-time occupancy in enclosed spaces.
 
