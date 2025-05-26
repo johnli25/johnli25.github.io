@@ -26,11 +26,11 @@ Work experience
 Extracurriculars
 ======
 * University of Illinois Swim Club
-* Illinois Triathlon Club
+* University of Illinois Triathlon Club
 * Urbana City FC (UPSL Semi-Pro Soccer)
 * ACM SIG-AIDA (Association for Computing Machinery Special Interest Group-Artificial Intelligence and Data Analytics)
 
-Awards
+Awards and Honors
 ======
 * Grainger Senior Design Runner-up Award (Fall 2022)
 * Graduated With Honors (May 2023, B.S.)
