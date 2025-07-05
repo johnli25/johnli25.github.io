@@ -10,4 +10,4 @@ venue: '26th IEEE International Symposium on Multimedia (ISM)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10935999'
 # citation: 'J. Li, S. S. Ahmed, and D. Nair, "FrameCorr: Adaptive, Autoencoder-based Neural Compression for Video Reconstruction in Resource and Timing Constrained Network Settings," in *Proc. 26th IEEE Int. Symp. Multimedia (ISM)*, 2024. [Online]. Available: https://ieeexplore.ieee.org/abstract/document/10935999'
 ---
-**John Li**, Deepak Nair, Shehab Sarar Ahmed
+**John Li**, Deepak Nair, Shehab Sarar Ahmed, Klara Nahrstedt, Indy Gupta
