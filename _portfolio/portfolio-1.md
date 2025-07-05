@@ -3,7 +3,7 @@ title: "MOM: Microcontroller-based Occupancy Monitoring"
 # excerpt: "ESP32-controlled, wireless networking, IoT device that measures the occupancy of indoor rooms by probing WiFi traffic. Deployed as a web app (using DynamoDB, AWS IoT Core, Python Flask/Dash, MQTT Protocol). <br/><br/>Won runner-up for best ECE Senior Design project!<br/><br/><img src='/images/MOM_dashboard.png'>"
 collection: portfolio
 --- 
-*by Franklin Moy, Vish GS, John Li.* <br/>
+*Franklin Moy, Vish GS, **John Li**.* <br/>
 **[Won Grainger Senior Design Runner-up Award](https://courses.grainger.illinois.edu/ece445/hall-of-fame.asp#) Fall 2022!!**
 
 Wireless, ESP32-controlled IoT device and web application designed to monitor Wi-Fi traffic density and estimate real-time occupancy in enclosed spaces.

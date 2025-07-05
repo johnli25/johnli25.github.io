@@ -1,15 +1,15 @@
 ---
 permalink: /
-title: "*Hello world. I'm John*"
+title: "*Hi all. I'm John*"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I'm a graduate student (M.S./PhD) in [Electrical and Computer Engineering (ECE)](https://ece.illinois.edu/) at the [University of Illinois at Urbana-Champaign (UIUC)](https://illinois.edu/), advised by [Professor Matt Caesar](https://caesar.cs.illinois.edu/).
+I'm a graduate student (M.S./PhD) in [Electrical and Computer Engineering (ECE)](https://ece.illinois.edu/) at the [University of Illinois at Urbana-Champaign (UIUC)](https://illinois.edu/), advised by [Professor Klara Nahrstedt](https://monet.cs.illinois.edu/).
 
-My research interests lie in Internet of Things (IoT), Computer Vision (CV), and Machine Learning (ML) for Networking and Systems.
+My research interests lie in Internet of Things (IoT), Distributed Multimedia Systems, Computer Vision (CV), and Machine Learning (ML) for Networking and Systems.
 
 Education
 ======
@@ -30,7 +30,7 @@ Awards and Honors
 * Graduated With Honors (May 2023, B.S.)
 * Dean's List (multiple semesters)
 
-Extracurriculars I do in my free time!
+Extracurriculars I (used to) do in my free time!
 ======
 * [University of Illinois Swim Club](https://illiniswimclub.com)
 * [University of Illinois Triathlon Club](https://illinoistriclub.web.illinois.edu)
