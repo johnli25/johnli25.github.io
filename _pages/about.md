@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I'm a graduate student (M.S./PhD) in [Electrical and Computer Engineering (ECE)](https://ece.illinois.edu/) at the [University of Illinois at Urbana-Champaign (UIUC)](https://illinois.edu/), advised by [Professor Klara Nahrstedt](https://monet.cs.illinois.edu/).
+I'm a software engineer at Google, working out of the Bay Area, California. I earned my M.S. in [Electrical and Computer Engineering (ECE)](https://ece.illinois.edu/) at the [University of Illinois at Urbana-Champaign (UIUC)](https://illinois.edu/), advised by [Professor Klara Nahrstedt](https://monet.cs.illinois.edu/).
 
-My research interests lie in Internet of Things (IoT), Distributed Multimedia Systems, Computer Vision (CV), and Machine Learning (ML) for Networking and Systems.
+<!-- My research interests lie in Internet of Things (IoT), Distributed Multimedia Systems, Computer Vision (CV), and Machine Learning (ML) for Networking and Systems. -->
 
 Education
 ======
-* Ph.D in Computer Engineering, University of Illinois at Urbana-Champaign (UIUC), (in progress)
+* Ph.D in Computer Engineering, University of Illinois at Urbana-Champaign (UIUC), (forced to quit 😭)
 * M.S. in Computer Engineering, University of Illinois at Urbana-Champaign (UIUC), 2025
 * B.S. in Computer Engineering, University of Illinois at Urbana-Champaign (UIUC), 2023
 
